@@ -1,0 +1,26 @@
+bevakningar:
+  - typ: benskydd 
+    märke: Bauer
+    modell: Vapor
+    storlek: 12"
+    max_pris: 500
+
+  
+  - typ: benskydd
+    märke: CCM
+    modell: Jetspeed
+    storlek: 12"
+    max_pris: 500
+
+  - typ: armbågsskydd
+    märke: Bauer
+    modell: Vapor
+    storlek: JR L
+    max_pris: 500
+
+- typ: armbågsskydd
+    märke: CCM
+    modell: Jetspeed
+    storlek: JR L
+    max_pris: 500    
+    
