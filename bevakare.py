@@ -25,7 +25,11 @@ def ladda_bevakningar():
         return yaml.safe_load(f)["bevakningar"]
 
 def bygg_sokterm(b):
-    delar = [str(b.get("märke", "")), str(b.get("modell", "")), str(b.get("storlek", ""))]
+    delar = [
+        str(b.get("typ", "")),
+        str(b.get("marke", "")),
+        str(b.get("modell", "")),
+        str(b.get("storlek", "")) ]
     return " ".join(d for d in delar if d).strip()
 
 def main():
