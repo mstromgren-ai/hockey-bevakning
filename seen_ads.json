@@ -1,0 +1,14 @@
+{}
+```
+4. **Commit changes**
+
+Sedan `requirements.txt`:
+
+1. **Add file → Create new file**
+2. Namn: `requirements.txt`
+3. Innehåll:
+```
+requests==2.31.0
+pyyaml==6.0.1
+beautifulsoup4==4.12.3
+lxml==5.1.0
