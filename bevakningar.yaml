@@ -16,8 +16,8 @@ bevakningar:
     modell: Vapor
     storlek: JR L
     max_pris: 500
-
-- typ: armbågsskydd
+    
+  - typ: armbågsskydd
     marke: CCM
     modell: Jetspeed
     storlek: JR L
