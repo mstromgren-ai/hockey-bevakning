@@ -2,7 +2,7 @@ name: Hockey Bevakning
 
 on:
   schedule:
-   - cron: '0 7,12,18 * * *'
+- cron: '0 5,10,16 * * *' 
   workflow_dispatch:
 
 jobs:
